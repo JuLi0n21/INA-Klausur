@@ -1,0 +1,8 @@
+Welches Entwurfsmuster nutzen Sie für die Implementierung der
+Anwendung? Bitte geben Sie den Namen des Musters an und skizzieren Sie das Muster (alle
+Blöcke und Pfeile sowie die wichtigsten Beschriftungen).
+
+Das Entwurfsmuster welches genutzt wird ist das Model-View-Cotroller. (Model 2)
+
+Eine Grafische Darstellung befindet sich in a.jpg
+

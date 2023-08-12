@@ -1,0 +1,16 @@
+.grid {
+    padding-left: 20%;
+    padding-right: 30%;
+    grid-gap: 5px;
+    display: flex;
+    z-index: 1;
+    backdrop-filter: blur(10px);
+    justify-content: space-around;
+}
+
+.colum {
+    display: flexbox;
+    z-index: 2;
+    align-items: middle;
+    justify-content: space-around;
+}

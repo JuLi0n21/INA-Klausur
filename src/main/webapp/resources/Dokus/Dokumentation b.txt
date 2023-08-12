@@ -1,0 +1,10 @@
+Überlegen Sie sich, wie Sie die Anwendung strukturieren möchten (Module).
+Benennen Sie jedes Modul und wählen Sie eine Technik, in der Sie es implementieren
+wollen. Ordnen Sie es einem Teil des Entwurfsmusters (siehe a)) zu.
+
+Loginseite, jsp, View
+Warenkorbseite, jsp, View
+Login und Logout, Servlet, Controller
+Warenkorb daten, Bean, Model
+Benutzter daten, Bean, Model
+Öffentliche artikelliste, jsp, view
